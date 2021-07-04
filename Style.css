@@ -1,0 +1,55 @@
+.pup{
+  color: #8845f4;
+}
+
+body {
+  font-family: Sans-Serif;
+  color: #777777;
+  line-height: 20px;
+}
+.half-width{
+  width: 50%;
+  float: left;
+}
+.side-img{
+  width: 70%;
+  margin-left: 20%;
+  margin-top: 15%;
+  border-radius: 10%;
+}
+.container{
+  display: inline-block;
+  padding-left: 5%;
+}
+.small{
+  width: 80%;
+  border-radius: 10%;
+}
+
+.experience{
+  padding: 30px;
+  margin: 30px;
+  background-color:rgb(238,251,255);
+  border-radius:20px ;
+}
+
+.exp{
+  padding: 10px;
+  border-left: 3px solid rgba(137,130,247,0.2);
+}
+
+
+.f{
+  width: 100%;
+ 
+}
+
+
+
+
+
+
+
+
+
+
